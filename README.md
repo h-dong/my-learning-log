@@ -63,6 +63,92 @@ Another headless CMS that seems to offer very similar features compared to Conte
 
 [Poke](https://www.sanity.io) to check it out
 
+### Prismic - headless CMS
+
+Again another headless CMS.
+
+- [x] Free tier available
+
+[Poke](https://prismic.io) to check it out
+
+
+## JavaScript Frameworks
+
+### Vue
+
+### React
+
+### Angular
+
+### https://riot.js.org
+
+### https://cycle.js.org
+
+### https://mithril.js.org
+
+### Preact
+
+### Polymer
+
+### Marko widgets
+
+### Inferno
+
+### Reactive
+
+### UIKit
+
+### slim.js
+
+### Ember
+
+### Aurelia
+
+### Rax
+
+### Cyclow
+
+### https://github.com/NervJS/nerv
+
+### Gem.js
+
+### Webix UI
+
+### KnockbackJS
+
+### Backbone.js
+
+### Shiva
+
+
+
+## JavaScript static typing
+
+### Typescript
+
+### Flow
+
+
+## Languages
+
+### JavaScript
+
+Only the most popular programming language.
+
+[Poke](https://developer.mozilla.org/bm/docs/Web/JavaScript) to check it out
+
+### Elm
+
+### Rust
+
+### Elixir
+
+### Golang
+
+### Kotlin
+
+### HCL - HashiCorp configuration language
+
 
 
 ## Testing
@@ -146,9 +232,26 @@ Still struggling with semantic versions and what symbols such as `~` and `^` doe
 
 [Poke](https://semver.npmjs.com) to check it out
 
+### Squoosh
+
+An image compression web application provided by Google Labs.
+
+- [x] Open source
+- [x] Free tool
+
+[Poke](https://squoosh.app) to check it out
+
 
 
 ## Miscellaneous
+
+### Freecodecamp - learn about web development
+
+A non-profit site that has a lot of web development courses and resources.
+
+- [x] Free content
+
+[Poke](https://www.freecodecamp.org) to check it out
 
 ### Glitch - discover project ideas
 
