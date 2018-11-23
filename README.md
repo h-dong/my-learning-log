@@ -74,59 +74,40 @@ Again another headless CMS.
 
 ## JavaScript Frameworks
 
-### Vue
+*Section WIP*
 
-### React
-
-### Angular
-
-### https://riot.js.org
-
-### https://cycle.js.org
-
-### https://mithril.js.org
-
-### Preact
-
-### Polymer
-
-### Marko widgets
-
-### Inferno
-
-### Reactive
-
-### UIKit
-
-### slim.js
-
-### Ember
-
-### Aurelia
-
-### Rax
-
-### Cyclow
-
-### https://github.com/NervJS/nerv
-
-### Gem.js
-
-### Webix UI
-
-### KnockbackJS
-
-### Backbone.js
-
-### Shiva
+* Vue
+* React
+* Angular
+* https://riot.js.org
+* https://cycle.js.org
+* https://mithril.js.org
+* Preact
+* Polymer
+* Marko
+* Inferno
+* Reactive
+* UIKit
+* slim.js
+* Ember
+* Aurelia
+* Rax
+* Cyclow
+* https://github.com/NervJS/nerv
+* Gem.js
+* Webix UI
+* KnockbackJS
+* Backbone.js
+* Shiva
 
 
 
 ## JavaScript static typing
 
-### Typescript
+*Section WIP*
 
-### Flow
+* Typescript
+* Flow
 
 
 ## Languages
@@ -137,17 +118,14 @@ Only the most popular programming language.
 
 [Poke](https://developer.mozilla.org/bm/docs/Web/JavaScript) to check it out
 
-### Elm
+*Section WIP*
 
-### Rust
-
-### Elixir
-
-### Golang
-
-### Kotlin
-
-### HCL - HashiCorp configuration language
+* Elm
+* Rust
+* Elixir
+* Golang
+* Kotlin
+* HCL - HashiCorp configuration language
 
 
 
