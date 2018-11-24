@@ -44,6 +44,28 @@ Similar to Google Analytics in a lot of ways, but allows for more customisable a
 
 
 
+## CI/CD, Cloud services
+
+### Netlify - all-in-one service for web apps
+
+Deploy modern static websites with CDN, Continuous deployment, 1-click HTTPS, and many more services. Simply connect Github or other git hosting provider, then with a few clicks Netlify will deploy and host it for you. One of the features that impressed me the most is how it builds every commit that is pushed, this means you have a history of everything that you could go to one of their generated URLs and look at what the web app looked like many commits ago.
+
+Simple to use and my go to service.
+
+- [x] Free tier available
+
+[Poke](https://www.netlify.com) to check it out
+
+### ZEIT - serverless cloud platform
+
+ZEIT Now is a cloud platform for serverless deployment. It enables developers to host websites and web services that deploy instantly, scale automatically, and require no supervision, all with minimal configuration.
+
+- [x] Free tier available
+
+[Poke](https://zeit.co) to check it out
+
+
+
 ## CMS
 
 ### Contentful - headless CMS
@@ -108,6 +130,21 @@ Again another headless CMS.
 
 * Typescript
 * Flow
+* JSdoc
+
+
+
+## JavaScript Libraries
+
+### VX - react + d3
+
+> vx is a collection of reusable low-level visualization components. vx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://github.com/hshoff/vx) to check it out
+
 
 
 ## Languages
@@ -126,6 +163,50 @@ Only the most popular programming language.
 * Golang
 * Kotlin
 * HCL - HashiCorp configuration language
+
+
+
+## Mobile
+
+### Flutter
+
+> Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://flutter.io) to check it out
+
+### React Native
+
+> React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components. 
+
+The biggest benefit of React Native is how similar it is to React. It will generate native apps based on the React code written (hence the name), this means native app level of performance. However, there still seems to be a lot of challenge with this when it comes to building apps both for iOS and Android (Airbnb moved away from it to native back in Jun 2018).
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://facebook.github.io/react-native) to check it out
+
+### Cordova
+
+> Cordova wraps your HTML/JavaScript app into a native container which can access the device functions of several platforms. These functions are exposed via a unified JavaScript API, allowing you to easily write one set of code to target nearly every phone or tablet on the market today and publish to their app stores.
+
+Mobile apps using Cordova tends to have worse performance than native apps. However, with Cordova means it is possible to write code once then deploy to all sorts of devices (as long as they are supported by Cordova).
+
+- [x] Open Source
+- [x] Free tool
+
+[Poke](https://cordova.apache.org) to check it out
+
+### Bazel - Building and testing Android apps
+
+> Bazel is a tool that automates software builds and tests. Supported build tasks include running compilers and linkers to produce executable programs and libraries, and assembling deployable packages for Android, iOS and other target environments.
+
+- [x] Open Source
+- [x] Free tool
+
+[Poke](https://bazel.build) to check it out
 
 
 
@@ -222,6 +303,16 @@ An image compression web application provided by Google Labs.
 
 
 ## Miscellaneous
+
+### enlight.nyc
+
+A platform created by a single individual, where it hosts a number of small projects which allows hands-on experience.
+
+It is a cool idea, however, I think Glitch in this section is a more mature platform.
+
+- [x] Free content
+
+[Poke](https://enlight.nyc) to check it out
 
 ### Freecodecamp - learn about web development
 
