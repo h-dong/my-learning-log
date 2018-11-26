@@ -258,6 +258,14 @@ A framework for building applications comprised of microservices that uses new e
 
 ## Tools & services
 
+### Apiary - Creating dummy APIs
+
+This is a fantastic tool for quickly throwing together a dummy API for Frontend guys to start their work, whilst the Backend gets built. Define everything using `API Blueprint` and `OpenAPI (Swagger)` then have documentation generated as well!
+
+- [x] Free tier available
+
+[Poke](https://apiary.io) to check it out
+
 ### Cloudnary - image storage and optimization
 
 A service that hosts media assets such as image and videos then serve them out in different formats, quality via unique URLs.
@@ -303,6 +311,22 @@ An image compression web application provided by Google Labs.
 
 
 ## Miscellaneous
+
+### Developer Roadmap
+
+> A fairly detailed and useful amount of information presentated in an easy to consume way. It should provide a good overview for developers new or old about the key technology on the market. This is mostly web focused, so everything is broken down into Frontend, Backend and DevOps.
+
+- [x] Free content
+
+[Poke](https://github.com/kamranahmedse/developer-roadmap) to check it out
+
+### Developer Roadmap for React
+
+> Similar to `Developer Roadmap` above, this is more focused dive into React side of things. It has listed all the key packages and technology developers often work with when they use REACT.
+
+- [x] Free content
+
+[Poke](https://github.com/adam-golab/react-developer-roadmap) to check it out
 
 ### enlight.nyc
 
