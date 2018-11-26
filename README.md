@@ -356,6 +356,14 @@ A site where people post their projects for the rest of the world to see. This s
 
 [Poke](https://glitch.com) to check it out
 
+### Raw Therapee - Raw image enhancing tool
+
+A free alternative tool to Adobe's lightroom, worth trying out.
+
+- [x] Free tool
+
+[Poke](https://rawtherapee.com) to check it out
+
 ### Resolver - complaint helper
 
 Helps consumers to complain when things don't go our way, so you don't need to do all the emailing and be stressed about it.
