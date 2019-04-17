@@ -242,7 +242,7 @@ Compared to Ava, there is no need to install sinon.js since this framework has m
 
 > Karma is essentially a tool which spawns a web server that executes source code against test code for each of the browsers connected. The results of each test against each browser are examined and displayed via the command line to the developer such that they can see which browsers and tests passed or failed.
 
-Karm is used for End-to-End (E2E) tests. It has been around for a while, so I'd personally pick something else over this.
+Karm is used for End-to-End (E2E) tests. It has been around for a while, so I'd personally pick something else over this. E.g. Cypress (below) essentially replaces Karma because it does all of this already and much more.
 
 - [x] Open source
 - [x] Free to use for both personal and business
@@ -282,7 +282,7 @@ Similar to Sinon below, Chai is meant to work with other libraries and framework
 
 [Poke](https://www.chaijs.com) to check it out
 
-### Sinon
+### Sinon - Test spies, stubs and mocks
 
 Standalone test spies, stubs and mocks for JavaScript. This is used in conjunction with any unit testing framework e.g. Ava.
 
@@ -301,6 +301,91 @@ Cucumber and Gherkin is a very popular tool among Java BDD testing. In JavaScrip
 - [x] Free to use for both personal and business
 
 [Poke](https://github.com/cucumber/cucumber-js) to check it out
+
+### Cypress - E2E testing framework and tool
+
+> The Cypress Test Runner is a hybrid application/framework/service all rolled into one. It takes a little bit of other testing tools, brings them together and improves on them.
+
+It allows writting testing by clicking and browsing the site, instead of hand write the code like most of the other solutions out there. Other features are not as crazy, but the previous point alone is enough to attract a lot of customers.
+
+- [x] Open source
+- [x] Test Runner is free to use for both personal and business
+- [x] Web Service (optional) has free tier available
+
+[Poke](https://www.cypress.io) to check it out
+
+### CodeceptJS - E2E framework with different engines
+
+If you plan on implementing a custom E2E test stack, then look no further. CodeceptJS will allow all kinds of combinations of tools with ease, this means you can swap out test engines as you wish or ultilise them all (Selenium-based WebDriver,  Protractor, Chrome-based Puppeteer or Electron-based Nightmare). 
+
+CodeceptJS uses its own syntax for writing the E2E scenarios. However, the syntax is very close to spoken English.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://codecept.io) to check it out
+
+### Webdriverio - WebDriver test framework
+
+Webdriverio was a big step up compared to how Selenium testing were done a few years back. But this is again, lagging behind compared to the newer tools that came out more recently. Due to the power of Selenium and the fact this is building on top of it, it will probably be around in the future, but with tools such as Cypress and CodeceptJS I can see Webdriverio being used all that much going forward.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://webdriver.io) to check it out
+
+### Selenium WebDriver - Cross browser testing
+
+Selenium will allow multi-browser testing compared to other tools which often is either based on no browser (e.g. PhantomJS or NightmareJS) or based on a single browser (e.g. Puppeteer). With the addition of Selenium WebDriver, it will now support headless browser testing.
+
+Since there are not many other good solutions for cross browser testing, this is the only reason why it is still around.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://www.seleniumhq.org) to check it out
+
+### PhantomJS - Headless Browser
+
+PhantomJS is a headless web browser scriptable with JavaScript.
+
+From the state of its website, you can tell it is no longer a popular tool.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](http://phantomjs.org) to check it out
+
+### Protractor - E2E Engine
+
+> Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
+
+I used this back in the AngularJS (1.x) days, it has been a long time and not sure how the landscape has shifted in the past few years.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://www.protractortest.org) to check it out
+
+### Puppeteer - E2E Engine
+
+> Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
+
+With Edge moving to Chromium, this will surely become a popular tool and a major player in the days to come.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://github.com/GoogleChrome/puppeteer) to check it out
+
+### NightmareJS - E2E Engine
+
+> Nightmare is a high-level browser automation library from Segment. Under the covers it uses Electron, which is similar to PhantomJS but roughly twice as fast and more modern.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://github.com/segmentio/nightmare) to check it out
 
 ### Pact - Consumer Driven Contract Testing
 
