@@ -1,4 +1,4 @@
-# My Learning Log
+# My Tool Box
 A long list of tools, frameworks, libraries and applications which I found interesting!
 
 
@@ -212,16 +212,22 @@ Mobile apps using Cordova tends to have worse performance than native apps. Howe
 
 ## Testing
 
-### Ava - JS unit testing library
+Some keywords:
+
+* E2E - End-to-End testing, this is carrying out user behaviour tests on the browser. Often running core user journies hitting both real front-end and back-end of the web application, hence the name.
+
+### Ava - Unit testing library
 
 A JavaScript test library that focuses on simplicity and lightweight design. To the point that it doesn't even have mocking built-in and it is recommended to use something like sinon.js for that. Running test concurrently is another one of its main selling points.
+
+Update (17th April 2019): after migrating we Jest, we found 10x performance improvement. There is very little reason to pick Ava over Jest at this stage.
 
 - [x] Open source
 - [x] Free to use for both personal and business
 
 [Poke](https://github.com/avajs/ava) to check it out
 
-### Jest - JS unit testing framework
+### Jest - Unit testing framework
 
 Open sourced by Facebook, a complete testing framework that is well crafted and packaged together. With this people very rarely would need to install any other unit-testing related packages. The framework also detects how many threads the current machine/server has and runs tests in a way that is most effecient (e.g. concurrently on multi-threaded CPUs, consecutively on single threaded CPUs).
 
@@ -232,6 +238,70 @@ Compared to Ava, there is no need to install sinon.js since this framework has m
 
 [Poke](https://jestjs.io) to check it out
 
+### Karma - E2E testing framework
+
+> Karma is essentially a tool which spawns a web server that executes source code against test code for each of the browsers connected. The results of each test against each browser are examined and displayed via the command line to the developer such that they can see which browsers and tests passed or failed.
+
+Karm is used for End-to-End (E2E) tests. It has been around for a while, so I'd personally pick something else over this.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://karma-runner.github.io) to check it out
+
+### Mocha - Unit & E2E testing framework
+
+> Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+
+I have only used Mocha for Unit testing, but it seems like it could support E2E tests as well.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://karma-runner.github.io) to check it out
+
+### Jasmine - Unit testing framework
+
+> Jasmine claims to be a behavior-driven development framework, but it is just a unit testing tool for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
+
+I personal would never use Jasmnine when I could use Jest. Imo Jest is better in almost everyway: easy to set up, batteries included, powerful APIs, and etc.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://jasmine.github.io) to check it out
+
+### Chai - Unit & E2E test assertion library
+
+> Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+
+Similar to Sinon below, Chai is meant to work with other libraries and frameworks. There is very little reason to pick this tool up, unless the (testing) tech stack is custom made and requires a good assertion library. E.g. Chai could be used with Webdriver.io.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://www.chaijs.com) to check it out
+
+### Sinon
+
+Standalone test spies, stubs and mocks for JavaScript. This is used in conjunction with any unit testing framework e.g. Ava.
+
+Another reason for using Jest ist that it has mocking, stubbing and spying included out of the box.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://sinonjs.org) to check it out
+
+### Cucumber (JS) and Gherkin - Behaviour Driven Development (BDD) Testing
+
+Cucumber and Gherkin is a very popular tool among Java BDD testing. In JavaScript, this is mostly used in End to End (E2E) tests unlike Jasmine which is just another Unit testing tool.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://github.com/cucumber/cucumber-js) to check it out
+
 ### Pact - Consumer Driven Contract Testing
 
 A similar to BDD approach to integration testing between backend services with either other backend services and frontend applications.
@@ -241,6 +311,26 @@ A similar to BDD approach to integration testing between backend services with e
 - [x] Self hosted
 
 [Poke](https://docs.pact.io) to check it out
+
+### Stryker - Multation Testing
+
+This tool effectively tests the quality of the unit tests in a given project. 100% coverage means less and less now we move to component based unit testing e.g. we can have a basic test that renders a component, which will end up with 90%+ coverage.
+
+> Bugs, or mutants, are automatically inserted into your production code. Your tests are ran for each mutant. If your tests fail then the mutant is killed. If your tests passed, the mutant survived. The higher the percentage of mutants killed, the more effective your tests are.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://stryker-mutator.io) to check it out
+
+### Allure Framework (JS) - Test Reporter
+
+A flexible lightweight multi-language test report tool. The framework current supports `Jasmine`, `Cucumber.JS` and `Mocha`.
+
+- [x] Open source
+- [x] Free to use for both personal and business
+
+[Poke](https://github.com/allure-framework/allure-js) to check it out
 
 
 
