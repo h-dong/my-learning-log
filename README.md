@@ -1,11 +1,15 @@
 # My Tool Box
 A long list of tools, frameworks, libraries and applications which I found interesting!
 
+## Table of Contents
 
+1. [Accessibility](#Accessibility)
+    1. [a11y project](#a11y-project)
+    1. [Axe](#axe)
 
 ## Accessibility
 
-### a11y project - accessibility resources
+### a11y project
 
 A website that has been created to help developer to create websites and apps that meets the accessibility standard. Contains a lot of useful resources.
 
@@ -13,7 +17,7 @@ A website that has been created to help developer to create websites and apps th
 
 [Poke](https://a11yproject.com) to check it out
 
-### Axe - accessibility testing
+### Axe
 
 Accessibility engine for automated Web UI testing. It comes in the forms of browser extensions and npm package, so developers could use it both on their development machine and CI pipeline.
 
