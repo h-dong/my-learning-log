@@ -6,6 +6,24 @@ A long list of tools, frameworks, libraries and applications which I found inter
 1. [Accessibility](#Accessibility)
     1. [a11y project](#a11y-project)
     1. [Axe](#axe)
+1. [Analytics](#Analytics)
+    1. [Google Analytics](#google-analytics)
+    1. [Snowplow](#snowplow)
+1. [Development Services](#development-services)
+    1. [Netlify](#netlify)
+    1. [ZEIT](#zeit)
+1. [CMS](#cms)
+    1. [Contentful](#contentful)
+    1. [Sanity IO](#sanity-io)
+    1. [Prismic](#prismic)
+1. [JavaScript Frameworks](#javascript-frameworks)
+    1. WIP
+1. [JavaScript Static Typing Tools](#javascript-static-typing-tools)
+    1. WIP
+1. [JavaScript Libraries](#javascript-libraries)
+    1. WIP
+
+
 
 ## Accessibility
 
@@ -27,6 +45,7 @@ Accessibility engine for automated Web UI testing. It comes in the forms of brow
 [Poke](https://github.com/dequelabs/axe-core) to check it out
 
 
+
 ## Analytics
 
 ### Google Analytics
@@ -37,7 +56,9 @@ Collects data from websites or web apps for later analysis on its website or mob
 
 [Poke](https://marketingplatform.google.com/about/analytics) to check it out
 
-### Snowplow - self-hosted analytics
+### Snowplow
+
+**Self-hosted analytics**
 
 Similar to Google Analytics in a lot of ways, but allows for more customisable and allows data to be saved in specified locations instead of Snowplow's servers.
 
@@ -48,9 +69,11 @@ Similar to Google Analytics in a lot of ways, but allows for more customisable a
 
 
 
-## CI/CD, Cloud services
+## Development Services
 
-### Netlify - all-in-one service for web apps
+### Netlify
+
+**all-in-one service for web apps**
 
 Deploy modern static websites with CDN, Continuous deployment, 1-click HTTPS, and many more services. Simply connect Github or other git hosting provider, then with a few clicks Netlify will deploy and host it for you. One of the features that impressed me the most is how it builds every commit that is pushed, this means you have a history of everything that you could go to one of their generated URLs and look at what the web app looked like many commits ago.
 
@@ -60,7 +83,9 @@ Simple to use and my go to service.
 
 [Poke](https://www.netlify.com) to check it out
 
-### ZEIT - serverless cloud platform
+### ZEIT
+
+**serverless cloud platform**
 
 ZEIT Now is a cloud platform for serverless deployment. It enables developers to host websites and web services that deploy instantly, scale automatically, and require no supervision, all with minimal configuration.
 
@@ -72,7 +97,9 @@ ZEIT Now is a cloud platform for serverless deployment. It enables developers to
 
 ## CMS
 
-### Contentful - headless CMS
+### Contentful
+
+**headless CMS**
 
 One of the most flexible and powerful headless CMS I've used to date. Allows easy integration with different languages and frameworks. It even supports graphQL querying instead of REST APIs.
 
@@ -80,7 +107,9 @@ One of the most flexible and powerful headless CMS I've used to date. Allows eas
 
 [Poke](https://www.contentful.com) to check it out
 
-### Sanity.io - headless CMS
+### Sanity IO
+
+**headless CMS**
 
 Another headless CMS that seems to offer very similar features compared to Contentful.
 
@@ -89,13 +118,16 @@ Another headless CMS that seems to offer very similar features compared to Conte
 
 [Poke](https://www.sanity.io) to check it out
 
-### Prismic - headless CMS
+### Prismic
+
+**headless CMS**
 
 Again another headless CMS.
 
 - [x] Free tier available
 
 [Poke](https://prismic.io) to check it out
+
 
 
 ## JavaScript Frameworks
@@ -128,7 +160,7 @@ Again another headless CMS.
 
 
 
-## JavaScript static typing
+## JavaScript Static Typing Tools
 
 *Section WIP*
 
