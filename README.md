@@ -224,6 +224,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free to use for both personal and business
 
   [Poke](https://github.com/hshoff/vx) to check it out
+  
++ Styletron - CSS in JS
+
+  Styletron is an universal toolkit for component-oriented styling. It falls into the CSS in JS category. Styletron works great with React but can be used with other frameworks or plain JS as well.
+  
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://www.styletron.org) to check it out
 
 **[⬆ back to top](#table-of-contents)**
   
@@ -245,6 +254,20 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * Golang
   * Kotlin
   * HCL - HashiCorp configuration language
+
+**[⬆ back to top](#table-of-contents)**
+
+
+
+## JavaScript (DOM)
+
++ ### `insertRule()`
+
+  we can make our pages efficient and fast is to dynamically add and remove styles directly to a stylesheet instead of constantly querying the DOM for elements and applying styles
+  
+  > The `CSSStyleSheet.insertRule()` method inserts a new CSS rule into the current style sheet, with some restrictions.
+
+  [Poke](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleSheet/insertRule) to check it out
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -388,6 +411,22 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://github.com/cucumber/cucumber-js) to check it out
 
++ ### TestCafe - E2E testing framework and tool
+
+  Live mode allows you to edit your TestCafe tests on the fly. Changes you make in the code will immediately restart the tests. And you'll see test results instantly.
+  
+  Other features:
+  
+  * Create stable tests (and no manual timeouts)
+  * Write in latest JS or TypeScript
+  * Launch concurrent tests
+  * Include tests in continuous integration system
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://devexpress.github.io/testcafe) to check it out
+  
 + ### Cypress - E2E testing framework and tool
 
   > The Cypress Test Runner is a hybrid application/framework/service all rolled into one. It takes a little bit of other testing tools, brings them together and improves on them.
@@ -514,6 +553,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   A framework for building applications comprised of microservices that uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and etc.
 
   - [x] Open source
+  - [x] Free to use for both personal and business
 
   [Poke](https://github.com/serverless/serverless) to check it out
 
@@ -569,7 +609,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   An image compression web application provided by Google Labs.
 
   - [x] Open source
-  - [x] Free tool
+  - [x] Free to use for both personal and business
 
   [Poke](https://squoosh.app) to check it out
   
@@ -593,7 +633,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   But remember when something is free, you are probably the product. If you are not going to share anything too private on there, it is probably a nice tool to use instead of Slack.
  
   - [x] Open source
-  - [x] Free tool
+  - [x] Free to use for both personal and business
 
   [Poke](https://keybase.io) to check it out
   
@@ -607,7 +647,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * Simplify your CI by running the same commands and configuration during development and testing—and use the same build and test caches!
   
   - [x] Open source
-  - [x] Free tool
+  - [x] Free to use for both personal and business
 
   [Poke](https://docs.garden.io) to check it out
   
@@ -665,7 +705,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   A free alternative tool to Adobe's lightroom, worth trying out.
 
-  - [x] Free tool
+  - [x] Free to use for both personal and business
 
   [Poke](https://rawtherapee.com) to check it out
 
@@ -681,7 +721,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   > Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording.
 
-  - [x] Free tool
+  - [x] Free to use for both personal and business
   - [x] Open Source
 
   [Poke](https://asciinema.org) to check it out
