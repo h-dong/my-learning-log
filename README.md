@@ -25,7 +25,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://github.com/dequelabs/axe-core) to check it out
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
 
@@ -48,7 +48,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://snowplowanalytics.com) to check it out
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
 
@@ -72,7 +72,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://zeit.co) to check it out
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
 
@@ -103,51 +103,51 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://prismic.io) to check it out
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
   
 
 
 ## JavaScript Frameworks
 
-*Section WIP*
+  *Section WIP*
 
-* Vue
-* React
-* Angular
-* https://riot.js.org
-* https://cycle.js.org
-* https://mithril.js.org
-* Preact
-* Polymer
-* Marko
-* Inferno
-* Reactive
-* UIKit
-* slim.js
-* Ember
-* Aurelia
-* Rax
-* Cyclow
-* https://github.com/NervJS/nerv
-* Gem.js
-* Webix UI
-* KnockbackJS
-* Backbone.js
-* Shiva
+  * Vue
+  * React
+  * Angular
+  * https://riot.js.org
+  * https://cycle.js.org
+  * https://mithril.js.org
+  * Preact
+  * Polymer
+  * Marko
+  * Inferno
+  * Reactive
+  * UIKit
+  * slim.js
+  * Ember
+  * Aurelia
+  * Rax
+  * Cyclow
+  * https://github.com/NervJS/nerv
+  * Gem.js
+  * Webix UI
+  * KnockbackJS
+  * Backbone.js
+  * Shiva
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
   
 
 
 ## JavaScript Static Typing Tools
 
-*Section WIP*
+  *Section WIP*
 
-* Typescript
-* Flow
-* JSdoc
+  * Typescript
+  * Flow
+  * JSdoc
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
   
 
 
@@ -162,7 +162,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://github.com/hshoff/vx) to check it out
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
   
   
 
@@ -183,7 +183,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * Kotlin
   * HCL - HashiCorp configuration language
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
 
@@ -220,9 +220,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://cordova.apache.org) to check it out
 
-+ ### Bazel
-
-  **Building and testing Android apps**
++ ### Bazel - building and testing Android apps
 
   > Bazel is a tool that automates software builds and tests. Supported build tasks include running compilers and linkers to produce executable programs and libraries, and assembling deployable packages for Android, iOS and other target environments.
 
@@ -231,211 +229,179 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://bazel.build) to check it out
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
   
   
 
 ## Testing
 
-Some keywords:
+  Some keywords:
 
-* E2E - End-to-End testing, this is carrying out user behaviour tests on the browser. Often running core user journies hitting both real front-end and back-end of the web application, hence the name.
+  * E2E - End-to-End testing, this is carrying out user behaviour tests on the browser. Often running core user journies hitting both real front-end and back-end of the web application, hence the name.
 
-### Ava
++ ### Ava - unit testing library
 
-**Unit testing library**
+  A JavaScript test library that focuses on simplicity and lightweight design. To the point that it doesn't even have mocking built-in and it is recommended to use something like sinon.js for that. Running test concurrently is another one of its main selling points.
 
-A JavaScript test library that focuses on simplicity and lightweight design. To the point that it doesn't even have mocking built-in and it is recommended to use something like sinon.js for that. Running test concurrently is another one of its main selling points.
+  Update (17th April 2019): after migrating we Jest, we found 10x performance improvement. There is very little reason to pick Ava over Jest at this stage.
 
-Update (17th April 2019): after migrating we Jest, we found 10x performance improvement. There is very little reason to pick Ava over Jest at this stage.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  [Poke](https://github.com/avajs/ava) to check it out
 
-[Poke](https://github.com/avajs/ava) to check it out
++ ### Jest - unit testing framework
 
-### Jest
+  Open sourced by Facebook, a complete testing framework that is well crafted and packaged together. With this people very rarely would need to install any other unit-testing related packages. The framework also detects how many threads the current machine/server has and runs tests in a way that is most effecient (e.g. concurrently on multi-threaded CPUs, consecutively on single threaded CPUs).
 
-**Unit testing framework**
+  Compared to Ava, there is no need to install sinon.js since this framework has mocking built-in and in a lot of ways is easier to use.
 
-Open sourced by Facebook, a complete testing framework that is well crafted and packaged together. With this people very rarely would need to install any other unit-testing related packages. The framework also detects how many threads the current machine/server has and runs tests in a way that is most effecient (e.g. concurrently on multi-threaded CPUs, consecutively on single threaded CPUs).
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-Compared to Ava, there is no need to install sinon.js since this framework has mocking built-in and in a lot of ways is easier to use.
+  [Poke](https://jestjs.io) to check it out
 
-- [x] Open source
-- [x] Free to use for both personal and business
++ ### Karma - E2E testing framework
 
-[Poke](https://jestjs.io) to check it out
+  > Karma is essentially a tool which spawns a web server that executes source code against test code for each of the browsers connected. The results of each test against each browser are examined and displayed via the command line to the developer such that they can see which browsers and tests passed or failed.
 
-### Karma
+  Karm is used for End-to-End (E2E) tests. It has been around for a while, so I'd personally pick something else over this. E.g. Cypress (below) essentially replaces Karma because it does all of this already and much more.
 
-**E2E testing framework**
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-> Karma is essentially a tool which spawns a web server that executes source code against test code for each of the browsers connected. The results of each test against each browser are examined and displayed via the command line to the developer such that they can see which browsers and tests passed or failed.
+  [Poke](https://karma-runner.github.io) to check it out
 
-Karm is used for End-to-End (E2E) tests. It has been around for a while, so I'd personally pick something else over this. E.g. Cypress (below) essentially replaces Karma because it does all of this already and much more.
++ ### Mocha - unit & E2E testing framework
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  > Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
-[Poke](https://karma-runner.github.io) to check it out
+  I have only used Mocha for Unit testing, but it seems like it could support E2E tests as well.
 
-### Mocha
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-**Unit & E2E testing framework**
+  [Poke](https://karma-runner.github.io) to check it out
 
-> Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
++ ### Jasmine - unit testing framework
 
-I have only used Mocha for Unit testing, but it seems like it could support E2E tests as well.
+  > Jasmine claims to be a behavior-driven development framework, but it is just a unit testing tool for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  I personal would never use Jasmnine when I could use Jest. Imo Jest is better in almost everyway: easy to set up, batteries included, powerful APIs, and etc.
 
-[Poke](https://karma-runner.github.io) to check it out
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-### Jasmine
+  [Poke](https://jasmine.github.io) to check it out
 
-**Unit testing framework**
++ ### Chai - unit & E2E test assertion library
 
-> Jasmine claims to be a behavior-driven development framework, but it is just a unit testing tool for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
+  > Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
-I personal would never use Jasmnine when I could use Jest. Imo Jest is better in almost everyway: easy to set up, batteries included, powerful APIs, and etc.
+  Similar to Sinon below, Chai is meant to work with other libraries and frameworks. There is very little reason to pick this tool up, unless the (testing) tech stack is custom made and requires a good assertion library. E.g. Chai could be used with Webdriver.io.
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-[Poke](https://jasmine.github.io) to check it out
+  [Poke](https://www.chaijs.com) to check it out
 
-### Chai
++ ### Sinon - test spies, stubs and mocks
 
-**Unit & E2E test assertion library**
+  Standalone test spies, stubs and mocks for JavaScript. This is used in conjunction with any unit testing framework e.g. Ava.
 
-> Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+  Another reason for using Jest ist that it has mocking, stubbing and spying included out of the box.
 
-Similar to Sinon below, Chai is meant to work with other libraries and frameworks. There is very little reason to pick this tool up, unless the (testing) tech stack is custom made and requires a good assertion library. E.g. Chai could be used with Webdriver.io.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  [Poke](https://sinonjs.org) to check it out
 
-[Poke](https://www.chaijs.com) to check it out
++ ### Cucumber and Gherkin - Behaviour Driven Development (BDD) testing
 
-### Sinon
+  Cucumber and Gherkin is a very popular tool among Java BDD testing. In JavaScript, this is mostly used in End to End (E2E) tests unlike Jasmine which is just another Unit testing tool.
 
-**Test spies, stubs and mocks**
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-Standalone test spies, stubs and mocks for JavaScript. This is used in conjunction with any unit testing framework e.g. Ava.
+  [Poke](https://github.com/cucumber/cucumber-js) to check it out
 
-Another reason for using Jest ist that it has mocking, stubbing and spying included out of the box.
++ ### Cypress - E2E testing framework and tool
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  > The Cypress Test Runner is a hybrid application/framework/service all rolled into one. It takes a little bit of other testing tools, brings them together and improves on them.
 
-[Poke](https://sinonjs.org) to check it out
+  It allows writting testing by clicking and browsing the site, instead of hand write the code like most of the other solutions out there. Other features are not as crazy, but the previous point alone is enough to attract a lot of customers.
 
-### Cucumber and Gherkin
+  - [x] Open source
+  - [x] Test Runner is free to use for both personal and business
+  - [x] Web Service (optional) has free tier available
 
-**Behaviour Driven Development (BDD) Testing**
+  [Poke](https://www.cypress.io) to check it out
 
-Cucumber and Gherkin is a very popular tool among Java BDD testing. In JavaScript, this is mostly used in End to End (E2E) tests unlike Jasmine which is just another Unit testing tool.
++ ### CodeceptJS - E2E framework with different engines
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  If you plan on implementing a custom E2E test stack, then look no further. CodeceptJS will allow all kinds of combinations of tools with ease, this means you can swap out test engines as you wish or ultilise them all (Selenium-based WebDriver,  Protractor, Chrome-based Puppeteer or Electron-based Nightmare). 
 
-[Poke](https://github.com/cucumber/cucumber-js) to check it out
+  CodeceptJS uses its own syntax for writing the E2E scenarios. However, the syntax is very close to spoken English.
 
-### Cypress
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-**E2E testing framework and tool**
+  [Poke](https://codecept.io) to check it out
 
-> The Cypress Test Runner is a hybrid application/framework/service all rolled into one. It takes a little bit of other testing tools, brings them together and improves on them.
++ ### Webdriverio - WebDriver test framework
 
-It allows writting testing by clicking and browsing the site, instead of hand write the code like most of the other solutions out there. Other features are not as crazy, but the previous point alone is enough to attract a lot of customers.
+  Webdriverio was a big step up compared to how Selenium testing were done a few years back. But this is again, lagging behind compared to the newer tools that came out more recently. Due to the power of Selenium and the fact this is building on top of it, it will probably be around in the future, but with tools such as Cypress and CodeceptJS I can see Webdriverio being used all that much going forward.
 
-- [x] Open source
-- [x] Test Runner is free to use for both personal and business
-- [x] Web Service (optional) has free tier available
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-[Poke](https://www.cypress.io) to check it out
+  [Poke](https://webdriver.io) to check it out
 
-### CodeceptJS
++ ### Selenium WebDriver - cross browser testing
 
-**E2E framework with different engines**
+  Selenium will allow multi-browser testing compared to other tools which often is either based on no browser (e.g. PhantomJS or NightmareJS) or based on a single browser (e.g. Puppeteer). With the addition of Selenium WebDriver, it will now support headless browser testing.
 
-If you plan on implementing a custom E2E test stack, then look no further. CodeceptJS will allow all kinds of combinations of tools with ease, this means you can swap out test engines as you wish or ultilise them all (Selenium-based WebDriver,  Protractor, Chrome-based Puppeteer or Electron-based Nightmare). 
+  Since there are not many other good solutions for cross browser testing, this is the only reason why it is still around.
 
-CodeceptJS uses its own syntax for writing the E2E scenarios. However, the syntax is very close to spoken English.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  [Poke](https://www.seleniumhq.org) to check it out
 
-[Poke](https://codecept.io) to check it out
++ ### PhantomJS - headless browser
 
-### Webdriverio
+  PhantomJS is a headless web browser scriptable with JavaScript.
 
-**WebDriver test framework**
+  From the state of its website, you can tell it is no longer a popular tool.
 
-Webdriverio was a big step up compared to how Selenium testing were done a few years back. But this is again, lagging behind compared to the newer tools that came out more recently. Due to the power of Selenium and the fact this is building on top of it, it will probably be around in the future, but with tools such as Cypress and CodeceptJS I can see Webdriverio being used all that much going forward.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  [Poke](http://phantomjs.org) to check it out
 
-[Poke](https://webdriver.io) to check it out
++ ### Protractor - E2E Engine
 
-### Selenium WebDriver
+  > Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 
-**Cross browser testing**
+  I used this back in the AngularJS (1.x) days, it has been a long time and not sure how the landscape has shifted in the past few years.
 
-Selenium will allow multi-browser testing compared to other tools which often is either based on no browser (e.g. PhantomJS or NightmareJS) or based on a single browser (e.g. Puppeteer). With the addition of Selenium WebDriver, it will now support headless browser testing.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-Since there are not many other good solutions for cross browser testing, this is the only reason why it is still around.
+  [Poke](https://www.protractortest.org) to check it out
 
-- [x] Open source
-- [x] Free to use for both personal and business
++ ### Puppeteer - E2E Engine
 
-[Poke](https://www.seleniumhq.org) to check it out
+  > Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
-### PhantomJS
+  With Edge moving to Chromium, this will surely become a popular tool and a major player in the days to come.
 
-**Headless Browser**
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-PhantomJS is a headless web browser scriptable with JavaScript.
+  [Poke](https://github.com/GoogleChrome/puppeteer) to check it out
 
-From the state of its website, you can tell it is no longer a popular tool.
-
-- [x] Open source
-- [x] Free to use for both personal and business
-
-[Poke](http://phantomjs.org) to check it out
-
-### Protractor
-
-**E2E Engine**
-
-> Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
-
-I used this back in the AngularJS (1.x) days, it has been a long time and not sure how the landscape has shifted in the past few years.
-
-- [x] Open source
-- [x] Free to use for both personal and business
-
-[Poke](https://www.protractortest.org) to check it out
-
-### Puppeteer
-
-**E2E Engine**
-
-> Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
-
-With Edge moving to Chromium, this will surely become a popular tool and a major player in the days to come.
-
-- [x] Open source
-- [x] Free to use for both personal and business
-
-[Poke](https://github.com/GoogleChrome/puppeteer) to check it out
-
-### NightmareJS
-
-**E2E Engine**
++ ### NightmareJS - E2E Engine
 
 > Nightmare is a high-level browser automation library from Segment. Under the covers it uses Electron, which is similar to PhantomJS but roughly twice as fast and more modern.
 
@@ -444,41 +410,37 @@ With Edge moving to Chromium, this will surely become a popular tool and a major
 
 [Poke](https://github.com/segmentio/nightmare) to check it out
 
-### Pact
++ ### Pact - Consumer Driven Contract testing
 
-**Consumer Driven Contract Testing**
+  A similar to BDD approach to integration testing between backend services with either other backend services and frontend applications.
 
-A similar to BDD approach to integration testing between backend services with either other backend services and frontend applications.
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  - [x] Self hosted
 
-- [x] Open source
-- [x] Free to use for both personal and business
-- [x] Self hosted
+  [Poke](https://docs.pact.io) to check it out
 
-[Poke](https://docs.pact.io) to check it out
++ ### Stryker - multation testing
 
-### Stryker
+  This tool effectively tests the quality of the unit tests in a given project. 100% coverage means less and less now we move to component based unit testing e.g. we can have a basic test that renders a component, which will end up with 90%+ coverage.
 
-**Multation Testing**
+  > Bugs, or mutants, are automatically inserted into your production code. Your tests are ran for each mutant. If your tests fail then the mutant is killed. If your tests passed, the mutant survived. The higher the percentage of mutants killed, the more effective your tests are.
 
-This tool effectively tests the quality of the unit tests in a given project. 100% coverage means less and less now we move to component based unit testing e.g. we can have a basic test that renders a component, which will end up with 90%+ coverage.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-> Bugs, or mutants, are automatically inserted into your production code. Your tests are ran for each mutant. If your tests fail then the mutant is killed. If your tests passed, the mutant survived. The higher the percentage of mutants killed, the more effective your tests are.
+  [Poke](https://stryker-mutator.io) to check it out
 
-- [x] Open source
-- [x] Free to use for both personal and business
++ ### Allure Framework - test reporter
 
-[Poke](https://stryker-mutator.io) to check it out
+  A flexible lightweight multi-language test report tool. The framework current supports `Jasmine`, `Cucumber.JS` and `Mocha`.
 
-### Allure Framework
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-**Test Reporter**
+  [Poke](https://github.com/allure-framework/allure-js) to check it out
 
-A flexible lightweight multi-language test report tool. The framework current supports `Jasmine`, `Cucumber.JS` and `Mocha`.
-
-- [x] Open source
-- [x] Free to use for both personal and business
-
-[Poke](https://github.com/allure-framework/allure-js) to check it out
+**[⬆ back to top](#table-of-contents)**
 
 
 
