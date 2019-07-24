@@ -170,16 +170,16 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
 
 
-## JavaScript Frameworks
+## JavaScript Rendering Library/Frameworks
 
-+ *Section WIP*
++ All the rendering libraries...
   
   * Vue
   * React
   * Angular
-  * https://riot.js.org
-  * https://cycle.js.org
-  * https://mithril.js.org
+  * riot.js
+  * cycle.js
+  * mithril.js
   * Preact
   * Polymer
   * Marko
@@ -191,12 +191,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * Aurelia
   * Rax
   * Cyclow
-  * https://github.com/NervJS/nerv
+  * NervJS
   * Gem.js
   * Webix UI
   * KnockbackJS
   * Backbone.js
   * Shiva
+  * lighterhtml
+  * hyperHTML
+  * snabbdom
 
 **[⬆ back to top](#table-of-contents)**
   
@@ -234,6 +237,24 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
   [Poke](https://www.styletron.org) to check it out
 
++ ### RxJS
+
+  RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code. This project is a rewrite of Reactive-Extensions/RxJS with better performance, better modularity, better debuggable call stacks, while staying mostly backwards compatible, with some breaking changes that reduce the API surface
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://rxjs-dev.firebaseapp.com) to check it out
+  
++ ### mitt - tiny functional event emitter
+
+  Tiny 200b functional event emitter / pubsub. Mitt was made for the browser, but works in any JavaScript runtime. It has no dependencies and supports IE9+.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/developit/mitt) to check it out
+  
 **[⬆ back to top](#table-of-contents)**
   
   
@@ -758,6 +779,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Open Sourced material
 
   [Poke](https://www.launchaco.com/logo) to check it out
+
++ ### Mark Text - markdown editor
+
+  A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.
+  
+  - [x] Free to use for both personal and business
+  - [x] Open Source
+  
+  [Poke](https://github.com/marktext/marktext) to check it out
 
 **[⬆ back to top](#table-of-contents)**
 
