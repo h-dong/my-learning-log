@@ -50,6 +50,10 @@ A long list of tools, frameworks, libraries and applications which I found inter
     1. [Pact](#pact)
     1. [Stryker](#stryker)
     1. [Allure Framework](#allure-framework)
+1. [Github Projects](#github-projects)
+    1. [Serverless](#serverless)
+1. [Tools & Services](#tools-&-services)
+    1. [Apiary - Creating dummy APIs](#apiary---creating-dummy-apis)
 
 
 ## Accessibility
@@ -524,9 +528,11 @@ A flexible lightweight multi-language test report tool. The framework current su
 
 
 
-## GitHub projects
+## GitHub Projects
 
-### Serverless - framework for serverless apps
+### Serverless
+
+**Framework for serverless apps**
 
 A framework for building applications comprised of microservices that uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and etc.
 
@@ -536,7 +542,7 @@ A framework for building applications comprised of microservices that uses new e
 
 
 
-## Tools & services
+## Tools & Services
 
 ### Apiary - Creating dummy APIs
 
