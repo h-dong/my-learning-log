@@ -207,6 +207,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * Express
   * fastify
 
++ ### Svelte - compiles app to pure JS code
+
+  Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+  
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/sveltejs/svelte) to check it out
+
 + ### gatsby - static site generator
 
   Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
@@ -253,6 +262,24 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free to use for both personal and business
 
   [Poke](https://github.com/hshoff/vx) to check it out
+  
++ ### trousers - styled components
+
+  Think of Trousers like styled-components + classnames + BEM, wrapped in a lovely React Hooks API ❤️. Trousers is designed to help you co-locate CSS and JS but opinionated in that it helps you avoid using JavaScript where CSS can take over. It loosely follows a BEM-like methodology, borrowing the concept of Blocks (the component), Elements (the child node you want to apply styles to) and Modifiers (apply styles when your component has particular props or state) to reduce the complexity that normally comes with CSS-in-JS.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://github.com/danieldelcore/trousers) to check it out
+  
++ ### react-spring
+
+  It is a spring-physics based animation library that should cover most of your UI related animation needs. It gives you tools flexible enough to confidently cast your ideas into moving interfaces.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://github.com/react-spring/react-spring) to check it out  
   
 + ### react-motion
 
@@ -327,6 +354,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free to use for both personal and business
   
   [Poke](https://github.com/turbo/js) to check it out
+  
++ ### imagemin
+
+  Minify images seamlessly.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/imagemin/imagemin) to check it out
   
 **[⬆ back to top](#table-of-contents)**
   
@@ -824,6 +860,22 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
   [Poke](https://web.dev/measure) to check it out
 
++ ### Renovate - Github tool
+
+  Automated Dependency Management.
+
+  - [x] Free for open source projects
+  
+  [Poke](https://github.com/marketplace/renovate) to check it out
+
++ ### LogRocket
+
+  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster.
+
+  - [x] Free tier available
+  
+  [Poke](https://logrocket.com) to check it out
+  
 **[⬆ back to top](#table-of-contents)**
 
 
