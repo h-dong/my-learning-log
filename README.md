@@ -319,6 +319,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
   [Poke](https://github.com/marak/Faker.js) to check it out
   
++ ### turbo - parallel computation
+
+  turbo.js - perform massive parallel computations in your browser with GPGPU.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/turbo/js) to check it out
+  
 **[⬆ back to top](#table-of-contents)**
   
   
