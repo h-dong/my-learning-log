@@ -225,7 +225,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://github.com/hshoff/vx) to check it out
   
-+ Styletron - CSS in JS
++ ### Styletron - CSS in JS
 
   Styletron is an universal toolkit for component-oriented styling. It falls into the CSS in JS category. Styletron works great with React but can be used with other frameworks or plain JS as well.
   
@@ -261,7 +261,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
 ## JavaScript (DOM)
 
-+ ### `insertRule()`
++ ### insertRule
 
   we can make our pages efficient and fast is to dynamically add and remove styles directly to a stylesheet instead of constantly querying the DOM for elements and applying styles
   
@@ -651,6 +651,14 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://docs.garden.io) to check it out
   
++ CloudFlare Workers - serverless hosting
+
+  > Build serverless applications on Cloudflare's global cloud network of data centers in over 180 cities across 80 countries. Cloudflare Workers provides a lightweight JavaScript execution environment that allows developers to augment existing applications or create entirely new ones without configuring or maintaining infrastructure.
+
+  - [x] Free tier available
+  
+  [Poke](https://www.cloudflare.com/en-gb/products/cloudflare-workers) to check it out
+  
 **[⬆ back to top](#table-of-contents)**
 
 
@@ -725,6 +733,31 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Open Source
 
   [Poke](https://asciinema.org) to check it out
+  
++ ### DaVinci Resolve 16 - free video editing software
+
+  Designed specifically for editors working on high end fast turn around work such as television commercials and even news cutting, the cut page is all about speed. It’s an alternate edit page with a streamlined interface and revolutionary new tools that will help you work faster than ever. The cut page lets you import, edit, trim, add transitions, titles, automatically match color, mix audio and more. Whether you’re delivering for broadcast or for YouTube, the cut page has everything you need to get the job done, all in one place. Plus, the regular edit page is still available so you can switch between edit and cut pages to change editing style right in the middle of a job.
+
+  - [x] Free to use for both personal and business
+
+  [Poke](https://www.blackmagicdesign.com/products/davinciresolve) to check it out
+  
++ ### flotato - turn web into mac apps
+
+  Turn any web page into a Mac app.
+
+  - [x] Free to use for both personal and business
+
+  [Poke](https://flotato.com) to check it out
+
++ ### Launchaco - generate logos
+
+  Free Online Logo Maker, Generate Logos Instantly.
+  
+  - [x] Free to use for both personal and business
+  - [x] Open Sourced material
+
+  [Poke](https://www.launchaco.com/logo) to check it out
 
 **[⬆ back to top](#table-of-contents)**
 
