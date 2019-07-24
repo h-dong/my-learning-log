@@ -572,7 +572,45 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free tool
 
   [Poke](https://squoosh.app) to check it out
+  
++ ### now.sh - deploy serverless application
 
+  Now makes serverless application deployment easy.
+  
+  * Builds and deploys with maximum parallelization
+  * Supports Monorepo
+  * Built-in CDN
+  * Our build process makes your apps serverless with no extra effort
+
+  - [x] Free tier available
+  
+  [Poke](https://zeit.co/now) to check it out
+  
++ ### Keybase - an free Slack alternative
+
+  > It is fully encrypted, open source and free, even for teams as large as 500 people. You create a Keybase Team and begin generating chats and channels. You can also share encrypted files with the team.
+ 
+  But remember when something is free, you are probably the product. If you are not going to share anything too private on there, it is probably a nice tool to use instead of Slack.
+ 
+  - [x] Open source
+  - [x] Free tool
+
+  [Poke](https://keybase.io) to check it out
+  
++ ### Garden - testing Kubernetes applications
+
+  > Garden is a developer tool that automates your workflows and makes developing and testing Kubernetes applications faster and easier than ever.
+
+  * Keep your development environment up-to-date as you code, and get rapid feedback.
+  * Develop and iterate as quickly with remote clusters as you do locally, and share development clusters with your team. With remote clusters you can even run Garden without Kubernetes or Docker installed on your machine!
+  * Start simple and grow complexity gradually as your needs evolve. Use simplified abstractions to start, and move to raw Kubernetes YAML, Helm, etc. only when you have to.
+  * Simplify your CI by running the same commands and configuration during development and testing—and use the same build and test caches!
+  
+  - [x] Open source
+  - [x] Free tool
+
+  [Poke](https://docs.garden.io) to check it out
+  
 **[⬆ back to top](#table-of-contents)**
 
 
@@ -638,6 +676,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free service
 
   [Poke](https://www.resolver.co.uk) to check it out
+
++ ### asciinema - terminal session recorder
+
+  > Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording.
+
+  - [x] Free tool
+  - [x] Open Source
+
+  [Poke](https://asciinema.org) to check it out
 
 **[⬆ back to top](#table-of-contents)**
 
