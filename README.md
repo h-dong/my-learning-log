@@ -3,88 +3,27 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
 ## Table of Contents
 
-- [Accessibility](#accessibility)
-  * [a11y project](#a11y-project)
-  * [Axe](#axe)
-- [Analytics](#analytics)
-  * [Google Analytics](#google-analytics)
-  * [Snowplow - self hosted analytics](#snowplow---self-hosted-analytics)
-- [Development Services](#development-services)
-  * [Netlify - all-in-one service for web apps](#netlify---all-in-one-service-for-web-apps)
-  * [ZEIT - serverless cloud platform](#zeit---serverless-cloud-platform)
-- [CMS](#cms)
-  * [Contentful - headless CMS](#contentful---headless-cms)
-  * [Sanity IO - headless CMS](#sanity-io---headless-cms)
-  * [Prismic - headless CMS](#prismic---headless-cms)
-- [JavaScript Frameworks](#javascript-frameworks)
-- [JavaScript Static Typing Tools](#javascript-static-typing-tools)
-- [JavaScript Libraries](#javascript-libraries)
-  * [VX](#vx)
-- [Languages](#languages)
-  * [JavaScript](#javascript)
-- [Mobile](#mobile)
-  * [Flutter](#flutter)
-  * [React Native](#react-native)
-  * [Cordova](#cordova)
-  * [Bazel](#bazel)
-- [Testing](#testing)
-  * [Ava](#ava)
-  * [Jest](#jest)
-  * [Karma](#karma)
-  * [Mocha](#mocha)
-  * [Jasmine](#jasmine)
-  * [Chai](#chai)
-  * [Sinon](#sinon)
-  * [Cucumber and Gherkin](#cucumber-and-gherkin)
-  * [Cypress](#cypress)
-  * [CodeceptJS](#codeceptjs)
-  * [Webdriverio](#webdriverio)
-  * [Selenium WebDriver](#selenium-webdriver)
-  * [PhantomJS](#phantomjs)
-  * [Protractor](#protractor)
-  * [Puppeteer](#puppeteer)
-  * [NightmareJS](#nightmarejs)
-  * [Pact](#pact)
-  * [Stryker](#stryker)
-  * [Allure Framework](#allure-framework)
-- [GitHub Projects](#github-projects)
-  * [Serverless](#serverless)
-- [Tools & Services](#tools-&-services)
-  * [Apiary - Creating dummy APIs](#apiary---creating-dummy-apis)
-  * [Cloudnary - image storage and optimization](#cloudnary---image-storage-and-optimization)
-  * [Debuggex - regular expression performance visualiser](#debuggex---regular-expression-performance-visualiser)
-  * [Regex101 - regular expression writer](#regex101---regular-expression-writer)
-  * [semver - semantic version calculator](#semver---semantic-version-calculator)
-  * [Squoosh](#squoosh)
-- [Miscellaneous](#miscellaneous)
-  * [Developer Roadmap](#developer-roadmap)
-  * [Developer Roadmap for React](#developer-roadmap-for-react)
-  * [enlight.nyc](#enlightnyc)
-  * [Freecodecamp - learn about web development](#freecodecamp---learn-about-web-development)
-  * [Glitch - discover project ideas](#glitch---discover-project-ideas)
-  * [Raw Therapee - Raw image enhancing tool](#raw-therapee---raw-image-enhancing-tool)
-  * [Resolver - complaint helper](#resolver---complaint-helper)
 
 
 
 ## Accessibility
 
-### a11y project
++ ### a11y project
 
-A website that has been created to help developer to create websites and apps that meets the accessibility standard. Contains a lot of useful resources.
+  A website that has been created to help developer to create websites and apps that meets the accessibility standard. Contains a lot of useful resources.
 
-- [x] Free content
+  - [x] Free content
 
-[Poke](https://a11yproject.com) to check it out
+  [Poke](https://a11yproject.com) to check it out
 
-### Axe
++ ### Axe
 
-Accessibility engine for automated Web UI testing. It comes in the forms of browser extensions and npm package, so developers could use it both on their development machine and CI pipeline.
+  Accessibility engine for automated Web UI testing. It comes in the forms of browser extensions and npm package, so developers could use it both on their development machine and CI pipeline.
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-[Poke](https://github.com/dequelabs/axe-core) to check it out
+  [Poke](https://github.com/dequelabs/axe-core) to check it out
 
 **[⬆ back to top](#table-of-contents)**
 
