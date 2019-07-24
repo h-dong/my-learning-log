@@ -28,6 +28,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   **[⬆ back to top](#table-of-contents)**
 
 
+
 ## Analytics
 
 + ### Google Analytics
@@ -48,6 +49,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
   [Poke](https://snowplowanalytics.com) to check it out
 
   **[⬆ back to top](#table-of-contents)**
+
 
 
 ## Development Services
@@ -73,33 +75,36 @@ A long list of tools, frameworks, libraries and applications which I found inter
   **[⬆ back to top](#table-of-contents)**
 
 
+
 ## CMS
 
-### Contentful - headless CMS
++ ### Contentful - headless CMS
 
-One of the most flexible and powerful headless CMS I've used to date. Allows easy integration with different languages and frameworks. It even supports graphQL querying instead of REST APIs.
+  One of the most flexible and powerful headless CMS I've used to date. Allows easy integration with different languages and frameworks. It even supports graphQL querying instead of REST APIs.
 
-- [x] Free tier available
+  - [x] Free tier available
 
-[Poke](https://www.contentful.com) to check it out
+  [Poke](https://www.contentful.com) to check it out
 
-### Sanity IO - headless CMS
++ ### Sanity IO - headless CMS
 
-Another headless CMS that seems to offer very similar features compared to Contentful.
+  Another headless CMS that seems to offer very similar features compared to Contentful.
 
-- [x] Open source
-- [x] Free tier available
+  - [x] Open source
+  - [x] Free tier available
 
-[Poke](https://www.sanity.io) to check it out
+  [Poke](https://www.sanity.io) to check it out
 
-### Prismic - headless CMS
++ ### Prismic - headless CMS
 
-Again another headless CMS.
+  Again another headless CMS.
 
-- [x] Free tier available
+  - [x] Free tier available
 
-[Poke](https://prismic.io) to check it out
+  [Poke](https://prismic.io) to check it out
 
+  **[⬆ back to top](#table-of-contents)**
+  
 
 
 ## JavaScript Frameworks
@@ -130,6 +135,8 @@ Again another headless CMS.
 * Backbone.js
 * Shiva
 
+  **[⬆ back to top](#table-of-contents)**
+  
 
 
 ## JavaScript Static Typing Tools
@@ -140,87 +147,93 @@ Again another headless CMS.
 * Flow
 * JSdoc
 
+  **[⬆ back to top](#table-of-contents)**
+  
 
 
 ## JavaScript Libraries
 
-### VX
++ ### VX - react + d3
 
-**VX = react + d3**
+  > vx is a collection of reusable low-level visualization components. vx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
 
-> vx is a collection of reusable low-level visualization components. vx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  [Poke](https://github.com/hshoff/vx) to check it out
 
-[Poke](https://github.com/hshoff/vx) to check it out
-
-
+  **[⬆ back to top](#table-of-contents)**
+  
+  
 
 ## Languages
 
-### JavaScript
++ ### JavaScript
 
-Only the most popular programming language.
+  Only the most popular programming language.
 
-[Poke](https://developer.mozilla.org/bm/docs/Web/JavaScript) to check it out
+  [Poke](https://developer.mozilla.org/bm/docs/Web/JavaScript) to check it out
 
-*Section WIP*
+  *Section WIP*
 
-* Elm
-* Rust
-* Elixir
-* Golang
-* Kotlin
-* HCL - HashiCorp configuration language
+  * Elm
+  * Rust
+  * Elixir
+  * Golang
+  * Kotlin
+  * HCL - HashiCorp configuration language
+
+  **[⬆ back to top](#table-of-contents)**
 
 
 
 ## Mobile
 
-### Flutter
++ ### Flutter
 
-> Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
+  > Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-[Poke](https://flutter.io) to check it out
+  [Poke](https://flutter.io) to check it out
 
-### React Native
++ ### React Native
 
-> React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components. 
+  > React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components. 
 
-The biggest benefit of React Native is how similar it is to React. It will generate native apps based on the React code written (hence the name), this means native app level of performance. However, there still seems to be a lot of challenge with this when it comes to building apps both for iOS and Android (Airbnb moved away from it to native back in Jun 2018).
+  The biggest benefit of React Native is how similar it is to React. It will generate native apps based on the React code written (hence the name), this means native app level of performance. However, there still seems to be a lot of challenge with this when it comes to building apps both for iOS and Android (Airbnb moved away from it to native back in Jun 2018).
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-[Poke](https://facebook.github.io/react-native) to check it out
+  [Poke](https://facebook.github.io/react-native) to check it out
 
-### Cordova
++ ### Cordova
 
-> Cordova wraps your HTML/JavaScript app into a native container which can access the device functions of several platforms. These functions are exposed via a unified JavaScript API, allowing you to easily write one set of code to target nearly every phone or tablet on the market today and publish to their app stores.
+  > Cordova wraps your HTML/JavaScript app into a native container which can access the device functions of several platforms. These functions are exposed via a unified JavaScript API, allowing you to easily write one set of code to target nearly every phone or tablet on the market today and publish to their app stores.
 
-Mobile apps using Cordova tends to have worse performance than native apps. However, with Cordova means it is possible to write code once then deploy to all sorts of devices (as long as they are supported by Cordova).
+  Mobile apps using Cordova tends to have worse performance than native apps. However, with Cordova means it is possible to write code once then deploy to all sorts of devices (as long as they are supported by Cordova).
 
-- [x] Open Source
-- [x] Free tool
+  - [x] Open Source
+  - [x] Free tool
 
-[Poke](https://cordova.apache.org) to check it out
+  [Poke](https://cordova.apache.org) to check it out
 
-### Bazel
++ ### Bazel
 
-**Building and testing Android apps**
+  **Building and testing Android apps**
 
-> Bazel is a tool that automates software builds and tests. Supported build tasks include running compilers and linkers to produce executable programs and libraries, and assembling deployable packages for Android, iOS and other target environments.
+  > Bazel is a tool that automates software builds and tests. Supported build tasks include running compilers and linkers to produce executable programs and libraries, and assembling deployable packages for Android, iOS and other target environments.
 
-- [x] Open Source
-- [x] Free tool
+  - [x] Open Source
+  - [x] Free tool
 
-[Poke](https://bazel.build) to check it out
+  [Poke](https://bazel.build) to check it out
 
-
+  **[⬆ back to top](#table-of-contents)**
+  
+  
 
 ## Testing
 
