@@ -201,6 +201,27 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * hyperHTML
   * snabbdom
 
+
++ ### gatsby - static site generator
+
+  Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+  
+  - [x] Open source
+  - [x] Self hosted
+  - [x] Free to use for both personal and business
+
+  [Poke](https://www.gatsbyjs.org) to check it out
+  
++ ### gridsome - static site generator
+
+  A Vue-powered static site generator for building CDN-ready websites for any headless CMS, local files or APIs.
+  
+  - [x] Open source
+  - [x] Self hosted
+  - [x] Free to use for both personal and business
+
+  [Poke](https://github.com/gridsome/gridsome/blob/master/README.md) to check it out
+  
 **[⬆ back to top](#table-of-contents)**
   
 
@@ -237,7 +258,18 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
   [Poke](https://www.styletron.org) to check it out
 
-+ ### RxJS
++ ### Emotion - CSS in JS
+
+  Emotion is a library designed for writing css styles with JavaScript. It provides powerful and predictable style composition in addition to a great developer experience with features such as source maps, labels, and testing utilities. Both string and object styles are supported.
+  
+  There are two primary methods of using Emotion. The first is framework agnostic and the second is for use with React.
+  
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://emotion.sh) to check it out
+
++ ### RxJS - event streams
 
   RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code. This project is a rewrite of Reactive-Extensions/RxJS with better performance, better modularity, better debuggable call stacks, while staying mostly backwards compatible, with some breaking changes that reduce the API surface
 
@@ -672,14 +704,41 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://docs.garden.io) to check it out
   
-+ CloudFlare Workers - serverless hosting
++ ### CloudFlare Workers - serverless hosting
 
   > Build serverless applications on Cloudflare's global cloud network of data centers in over 180 cities across 80 countries. Cloudflare Workers provides a lightweight JavaScript execution environment that allows developers to augment existing applications or create entirely new ones without configuring or maintaining infrastructure.
 
   - [x] Free tier available
   
   [Poke](https://www.cloudflare.com/en-gb/products/cloudflare-workers) to check it out
+    
++ ### browserl.ist - compatible checker
+
+  A page to display compatible browsers from a browserslist string.
   
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://browserl.ist) to check it out
+
++ ### pikapkg - use npm packages in browser
+
+  Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/pikapkg/web) to check it out
+
++ ### Pika - NPM alternative
+
+  Find modern packages on npm. Get faster, smaller JavaScript bundles.
+  
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://www.pika.dev) to check it out
+
 **[⬆ back to top](#table-of-contents)**
 
 
