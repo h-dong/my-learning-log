@@ -199,8 +199,13 @@ A long list of tools, frameworks, libraries and applications which I found inter
   * Shiva
   * lighterhtml
   * hyperHTML
+  * hyperApp
   * snabbdom
 
++ ### Node frameworks
+
+  * Express
+  * fastify
 
 + ### gatsby - static site generator
 
@@ -249,6 +254,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://github.com/hshoff/vx) to check it out
   
++ ### react-motion
+
+  A spring that solves your animation problems.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://github.com/chenglou/react-motion) to check it out  
+
 + ### Styletron - CSS in JS
 
   Styletron is an universal toolkit for component-oriented styling. It falls into the CSS in JS category. Styletron works great with React but can be used with other frameworks or plain JS as well.
@@ -286,6 +300,24 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free to use for both personal and business
   
   [Poke](https://github.com/developit/mitt) to check it out
+
++ ### parket - state management
+
+  A library to manage application state, heavily inspired by mobx-state-tree.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/ForsakenHarmony/parket) to check it out
+
++ ### faker.js - generate fake data
+
+  Generate massive amounts of realistic fake data in Node.js and the browser
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/marak/Faker.js) to check it out
   
 **[⬆ back to top](#table-of-contents)**
   
@@ -399,6 +431,15 @@ A long list of tools, frameworks, libraries and applications which I found inter
   - [x] Free to use for both personal and business
 
   [Poke](https://jestjs.io) to check it out
+
++ ### RITEway - unit testing framework
+
+  RITEway forces you to write Readable, Isolated, and Explicit tests, because that's the only way you can use the API. It also makes it easier to be thorough by making test assertions so simple that you'll want to write more of them.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+
+  [Poke](https://github.com/ericelliott/riteway) to check it out
 
 + ### Karma - E2E testing framework
 
@@ -739,6 +780,41 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
   [Poke](https://www.pika.dev) to check it out
 
++ ### Pika - Monorepo
+
+  A tool for managing JavaScript projects with multiple packages.
+  
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://github.com/lerna/lerna) to check it out
+
++ ### minimal analytics
+
+  A simple snippet for tracking page views on your website without having to add external libraries. Also works for single page applications made with the likes of react and vue.js.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://minimalanalytics.com) to check it out
+  
++ ### bit - create component libraries
+
+  Bit helps your team share components and collaborate to build faster together. Give it a try.
+
+  - [x] Open source
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://bit.dev) to check it out
+
++ ### Web Measure
+
+  See how well your website performs. Then, get tips to improve your user experience. Sign in to track your progress over time.
+
+  - [x] Free to use for both personal and business
+  
+  [Poke](https://web.dev/measure) to check it out
+
 **[⬆ back to top](#table-of-contents)**
 
 
@@ -848,6 +924,23 @@ A long list of tools, frameworks, libraries and applications which I found inter
   
   [Poke](https://github.com/marktext/marktext) to check it out
 
++ ### imageoptim - image optimiser
+
+  Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+  
+  - [x] Free to use for both personal and business
+  - [x] Open Source
+  
+  [Poke](https://imageoptim.com/mac) to check it out
+
++ ### Design System Galary
+
+  A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration.
+  
+  - [x] Free content
+  
+  [Poke](https://designsystemsrepo.com/design-systems) to check it out
+ 
 **[⬆ back to top](#table-of-contents)**
 
 
