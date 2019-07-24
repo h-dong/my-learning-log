@@ -109,8 +109,8 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
 ## JavaScript Frameworks
 
-  *Section WIP*
-
++ *Section WIP*
+  
   * Vue
   * React
   * Angular
@@ -141,7 +141,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
 ## JavaScript Static Typing Tools
 
-  *Section WIP*
++ *Section WIP*
 
   * Typescript
   * Flow
@@ -174,7 +174,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://developer.mozilla.org/bm/docs/Web/JavaScript) to check it out
 
-  *Section WIP*
++ *Section WIP*
 
   * Elm
   * Rust
@@ -237,7 +237,7 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   Some keywords:
 
-  * E2E - End-to-End testing, this is carrying out user behaviour tests on the browser. Often running core user journies hitting both real front-end and back-end of the web application, hence the name.
+    * E2E - End-to-End testing, this is carrying out user behaviour tests on the browser. Often running core user journies hitting both real front-end and back-end of the web application, hence the name.
 
 + ### Ava - unit testing library
 
@@ -403,12 +403,12 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
 + ### NightmareJS - E2E Engine
 
-> Nightmare is a high-level browser automation library from Segment. Under the covers it uses Electron, which is similar to PhantomJS but roughly twice as fast and more modern.
+  > Nightmare is a high-level browser automation library from Segment. Under the covers it uses Electron, which is similar to PhantomJS but roughly twice as fast and more modern.
 
-- [x] Open source
-- [x] Free to use for both personal and business
+  - [x] Open source
+  - [x] Free to use for both personal and business
 
-[Poke](https://github.com/segmentio/nightmare) to check it out
+  [Poke](https://github.com/segmentio/nightmare) to check it out
 
 + ### Pact - Consumer Driven Contract testing
 
@@ -446,130 +446,136 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
 ## GitHub Projects
 
-### Serverless
++ ### Serverless - framework for serverless apps
 
-**Framework for serverless apps**
+  A framework for building applications comprised of microservices that uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and etc.
 
-A framework for building applications comprised of microservices that uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and etc.
+  - [x] Open source
 
-- [x] Open source
+  [Poke](https://github.com/serverless/serverless) to check it out
 
-[Poke](https://github.com/serverless/serverless) to check it out
+**[⬆ back to top](#table-of-contents)**
 
 
 
 ## Tools & Services
 
-### Apiary - Creating dummy APIs
++ ### Apiary - Creating dummy APIs
 
-This is a fantastic tool for quickly throwing together a dummy API for Frontend guys to start their work, whilst the Backend gets built. Define everything using `API Blueprint` and `OpenAPI (Swagger)` then have documentation generated as well!
+  This is a fantastic tool for quickly throwing together a dummy API for Frontend guys to start their work, whilst the Backend gets built. Define everything using `API Blueprint` and `OpenAPI (Swagger)` then have documentation generated as well!
 
-- [x] Free tier available
+  - [x] Free tier available
 
-[Poke](https://apiary.io) to check it out
+  [Poke](https://apiary.io) to check it out
 
-### Cloudnary - image storage and optimization
++ ### Cloudnary - image storage and optimization
 
-A service that hosts media assets such as image and videos then serve them out in different formats, quality via unique URLs.
+  A service that hosts media assets such as image and videos then serve them out in different formats, quality via unique URLs.
 
-- [x] Free tier available
+  - [x] Free tier available
 
-[Poke](https://cloudinary.com) to check it out
+  [Poke](https://cloudinary.com) to check it out
 
-### Debuggex - regular expression performance visualiser
++ ### Debuggex - regular expression performance visualiser
 
-An awesome tool that will show you visually how the Regex will perform. This is extremely useful, and you won't deploy any poor performing Regex again!
+  An awesome tool that will show you visually how the Regex will perform. This is extremely useful, and you won't deploy any poor performing Regex again!
 
-- [x] Free tool
-- [x] Free tier available
+  - [x] Free tool
+  - [x] Free tier available
 
-[Poke](https://www.debuggex.com/) to check it out
+  [Poke](https://www.debuggex.com/) to check it out
 
-### Regex101 - regular expression writer
++ ### Regex101 - regular expression writer
 
-A simple to use web app for writing Regex in a few different languages, nice visual design and user/developer friendly.
+  A simple to use web app for writing Regex in a few different languages, nice visual design and user/developer friendly.
 
-- [x] Free tool
+  - [x] Free tool
 
-[Poke](https://regex101.com) to check it out
+  [Poke](https://regex101.com) to check it out
 
-### semver - semantic version calculator
++ ### semver - semantic version calculator
 
-Still struggling with semantic versions and what symbols such as `~` and `^` does? This tool will let you try them all out, so you can be 100% sure before settling on a package version. 
+  Still struggling with semantic versions and what symbols such as `~` and `^` does? This tool will let you try them all out, so you can be 100% sure before settling on a package version. 
 
-- [x] Free tool
+  - [x] Free tool
 
-[Poke](https://semver.npmjs.com) to check it out
+  [Poke](https://semver.npmjs.com) to check it out
 
-### Squoosh
++ ### Squoosh
 
-An image compression web application provided by Google Labs.
+  An image compression web application provided by Google Labs.
 
-- [x] Open source
-- [x] Free tool
+  - [x] Open source
+  - [x] Free tool
 
-[Poke](https://squoosh.app) to check it out
+  [Poke](https://squoosh.app) to check it out
+
+**[⬆ back to top](#table-of-contents)**
 
 
 
 ## Miscellaneous
 
-### Developer Roadmap
++ ### Developer Roadmap
 
-> A fairly detailed and useful amount of information presentated in an easy to consume way. It should provide a good overview for developers new or old about the key technology on the market. This is mostly web focused, so everything is broken down into Frontend, Backend and DevOps.
+  > A fairly detailed and useful amount of information presentated in an easy to consume way. It should provide a good overview for developers new or old about the key technology on the market. This is mostly web focused, so everything is broken down into Frontend, Backend and DevOps.
 
-- [x] Free content
+  - [x] Free content
 
-[Poke](https://github.com/kamranahmedse/developer-roadmap) to check it out
+  [Poke](https://github.com/kamranahmedse/developer-roadmap) to check it out
 
-### Developer Roadmap for React
++ ### Developer Roadmap for React
 
-> Similar to `Developer Roadmap` above, this is more focused dive into React side of things. It has listed all the key packages and technology developers often work with when they use REACT.
+  > Similar to `Developer Roadmap` above, this is more focused dive into React side of things. It has listed all the key packages and technology developers often work with when they use REACT.
 
-- [x] Free content
+  - [x] Free content
 
-[Poke](https://github.com/adam-golab/react-developer-roadmap) to check it out
+  [Poke](https://github.com/adam-golab/react-developer-roadmap) to check it out
 
-### enlight.nyc
++ ### enlight.nyc
 
-A platform created by a single individual, where it hosts a number of small projects which allows hands-on experience.
+  A platform created by a single individual, where it hosts a number of small projects which allows hands-on experience.
 
-It is a cool idea, however, I think Glitch in this section is a more mature platform.
+  It is a cool idea, however, I think Glitch in this section is a more mature platform.
 
-- [x] Free content
+  - [x] Free content
 
-[Poke](https://enlight.nyc) to check it out
+  [Poke](https://enlight.nyc) to check it out
 
-### Freecodecamp - learn about web development
++ ### Freecodecamp - learn about web development
 
-A non-profit site that has a lot of web development courses and resources.
+  A non-profit site that has a lot of web development courses and resources.
 
-- [x] Free content
+  - [x] Free content
 
-[Poke](https://www.freecodecamp.org) to check it out
+  [Poke](https://www.freecodecamp.org) to check it out
 
-### Glitch - discover project ideas
++ ### Glitch - discover project ideas
 
-A site where people post their projects for the rest of the world to see. This site allows allow anyone to fork any project with a click and start playing around with that project.
+  A site where people post their projects for the rest of the world to see. This site allows allow anyone to fork any project with a click and start playing around with that project.
 
-> From useful tools that solve problems at work, to cutting-edge VR experiences, smart bots, and apps that help advance important causes, Glitch is a unique community where people have built over a million projects for you to discover, with new ones are popping up every day.
+  > From useful tools that solve problems at work, to cutting-edge VR experiences, smart bots, and apps that help advance important causes, Glitch is a unique community where people have built over a million projects for you to discover, with new ones are popping up every day.
 
-- [x] Free content
+  - [x] Free content
 
-[Poke](https://glitch.com) to check it out
+  [Poke](https://glitch.com) to check it out
 
-### Raw Therapee - Raw image enhancing tool
++ ### Raw Therapee - Raw image enhancing tool
 
-A free alternative tool to Adobe's lightroom, worth trying out.
+  A free alternative tool to Adobe's lightroom, worth trying out.
 
-- [x] Free tool
+  - [x] Free tool
 
-[Poke](https://rawtherapee.com) to check it out
+  [Poke](https://rawtherapee.com) to check it out
 
-### Resolver - complaint helper
++ ### Resolver - complaint helper
 
-Helps consumers to complain when things don't go our way, so you don't need to do all the emailing and be stressed about it.
+  Helps consumers to complain when things don't go our way, so you don't need to do all the emailing and be stressed about it.
 
-- [x] Free service
+  - [x] Free service
 
-[Poke](https://www.resolver.co.uk) to check it out
+  [Poke](https://www.resolver.co.uk) to check it out
+
+**[⬆ back to top](#table-of-contents)**
+
+
