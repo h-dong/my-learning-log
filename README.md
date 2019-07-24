@@ -25,50 +25,52 @@ A long list of tools, frameworks, libraries and applications which I found inter
 
   [Poke](https://github.com/dequelabs/axe-core) to check it out
 
-**[⬆ back to top](#table-of-contents)**
+  **[⬆ back to top](#table-of-contents)**
 
 
 ## Analytics
 
-### Google Analytics
++ ### Google Analytics
 
-Collects data from websites or web apps for later analysis on its website or mobile app.
+  Collects data from websites or web apps for later analysis on its website or mobile app.
 
-- [x] Free to use for both personal and business
+  - [x] Free to use for both personal and business
 
-[Poke](https://marketingplatform.google.com/about/analytics) to check it out
+  [Poke](https://marketingplatform.google.com/about/analytics) to check it out
 
-### Snowplow - self hosted analytics
++ ### Snowplow - self hosted analytics
 
-Similar to Google Analytics in a lot of ways, but allows for more customisable and allows data to be saved in specified locations instead of Snowplow's servers.
+  Similar to Google Analytics in a lot of ways, but allows for more customisable and allows data to be saved in specified locations instead of Snowplow's servers.
 
-- [x] Open source
-- [x] Self hosted
+  - [x] Open source
+  - [x] Self hosted
 
-[Poke](https://snowplowanalytics.com) to check it out
+  [Poke](https://snowplowanalytics.com) to check it out
 
+  **[⬆ back to top](#table-of-contents)**
 
 
 ## Development Services
 
-### Netlify - all-in-one service for web apps
++ ### Netlify - all-in-one service for web apps
 
-Deploy modern static websites with CDN, Continuous deployment, 1-click HTTPS, and many more services. Simply connect Github or other git hosting provider, then with a few clicks Netlify will deploy and host it for you. One of the features that impressed me the most is how it builds every commit that is pushed, this means you have a history of everything that you could go to one of their generated URLs and look at what the web app looked like many commits ago.
+  Deploy modern static websites with CDN, Continuous deployment, 1-click HTTPS, and many more services. Simply connect Github or other git hosting provider, then with a few clicks Netlify will deploy and host it for you. One of the features that impressed me the most is how it builds every commit that is pushed, this means you have a history of everything that you could go to one of their generated URLs and look at what the web app looked like many commits ago.
 
-Simple to use and my go to service.
+  Simple to use and my go to service.
 
-- [x] Free tier available
+  - [x] Free tier available
 
-[Poke](https://www.netlify.com) to check it out
+  [Poke](https://www.netlify.com) to check it out
 
-### ZEIT - serverless cloud platform
++ ### ZEIT - serverless cloud platform
 
-ZEIT Now is a cloud platform for serverless deployment. It enables developers to host websites and web services that deploy instantly, scale automatically, and require no supervision, all with minimal configuration.
+  ZEIT Now is a cloud platform for serverless deployment. It enables developers to host websites and web services that deploy instantly, scale automatically, and require no supervision, all with minimal configuration.
 
-- [x] Free tier available
+  - [x] Free tier available
 
-[Poke](https://zeit.co) to check it out
+  [Poke](https://zeit.co) to check it out
 
+  **[⬆ back to top](#table-of-contents)**
 
 
 ## CMS
